@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eval posfix="abc+*d*">
+    <lex>
+        <expresion>a*(b+c)*d</expresion>
+    </lex>
+    <tt maxTerms="(a+b+c+d)(a+b+c+d')(a+b+c'+d)(a+b+c'+d')(a+b'+c+d)(a+b'+c+d')(a+b'+c'+d)(a+b'+c'+d')(a'+b+c+d)(a'+b+c+d')(a'+b+c'+d)(a'+b'+c+d)(a'+b'+c'+d)" minTerms="(ab'cd)+(abc'd)+(abcd)" numColumns="7" rows="16"/>
+</eval>

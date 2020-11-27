@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eval posfix="pqr+*s&gt;">
+    <lex>
+        <expresion>(p*(q+r))&gt;s</expresion>
+    </lex>
+    <tt maxTerms="(p'+q+r'+s)(p'+q'+r+s)(p'+q'+r'+s)" minTerms="(p'q'r's')+(p'q'r's)+(p'q'rs')+(p'q'rs)+(p'qr's')+(p'qr's)+(p'qrs')+(p'qrs)+(pq'r's')+(pq'r's)+(pq'rs)+(pqr's)+(pqrs)" numColumns="7" rows="16"/>
+</eval>

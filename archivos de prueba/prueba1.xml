@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eval posfix="pq&gt;">
+    <lex>
+        <expresion>p&gt;q</expresion>
+    </lex>
+    <tt maxTerms="(p'+q)" minTerms="(p'q')+(p'q)+(pq)" numColumns="3" rows="4"/>
+</eval>
