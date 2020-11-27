@@ -1,0 +1,2 @@
+No simplifica, nos falto tiempo para intentar hacerlo
+La documentación está con javadoc
